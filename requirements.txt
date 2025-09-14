@@ -1,0 +1,9 @@
+PySimpleGUI
+pyperclip
+plyer
+certifi
+youtube_dl
+pycurl
+pillow
+cx_Freeze # for building software
+pyinstaller

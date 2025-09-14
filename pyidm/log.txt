@@ -1,0 +1,164 @@
+>> Starting PyIDM version: 2020.3.22 Non-Frozen
+>> operating system: Windows-10-10.0.26100-SP0 - AMD64
+>> current working directory: C:\Users\malik\Desktop\pyIDM\pyidm
+>> Load Application setting from C:\Users\malik\Desktop\pyIDM\pyidm
+>> Load previous download items from C:\Users\malik\Desktop\pyIDM\pyidm
+>> youtube-dl load_time= 1.203239917755127
+>> check ffmpeg availability?
+>> can not find ffmpeg!!, install it, or add executable location to PATH, or copy executable to  C:\Users\malik\AppData\Roaming\.PyIDM or C:\Users\malik\Desktop\pyIDM\pyidm
+>> get_headers()> (23, 'Failure writing output to destination, passed 1360 returned -1')
+>> looking for video streams ... Please wait
+>> youtube_func()> processing: https://worker-little-star-7f02.gecobi8468.workers.dev/bf4fc57f1fff27d9d3443f0074134cdf9d60a58cfdba0ce4a5fd66dcf44713c49831d44004b86a4791ff2b80cf8edafbf1b44f5a808f7d7b4ee1e0c371c1ff2bb8270d1f16eb142075a92ae1bad5a0af4c5db08d757ffb100a4aa0826a58b1b84cfe30b4ef88b8ed7203145506497e66bbba3ab747a89ba2f5cd08646ec4a195e67243f1ecc80ec6f2db14013e0bc436c97b5f66b8cf621cf9d548735d77db3f7e9d68c14cb15269e78fd3e63abdbe97::9756fab1745523967983c3502c0a6751/Avengers.Endgame.2019.1080p.10Bit.BRRip.Hindi.English.Esubs.Moviesmod.Com.mkv
+>> {'prefer_insecure': True, 'no_warnings': False, 'logger': youtube-dl Logger}
+>> [generic] Avengers.Endgame.2019.1080p.10Bit.BRRip.Hindi.English.Esubs.Moviesmod.Com: Requesting header
+>> [generic] Avengers.Endgame.2019.1080p.10Bit.BRRip.Hindi.English.Esubs.Moviesmod.Com: Requesting header
+>> get_headers()> (23, 'Failure writing output to destination, passed 8192 returned -1')
+>> downloading:  https://github.com/pyIDM/pyIDM/releases/download/extra/ffmpeg.zip
+>> get_headers()> (23, 'Failure writing output to destination, passed 9 returned -1')
+>> days since last check for update: 0 day(s).
+>> download item 1 already in list, check resume availability
+>> resuming
+>> resume is possible
+>> ----------------------------------------------------------------------------------------------------
+>> start downloading file: "avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv", size: 3.05 GB, to: C:\Users\malik\Downloads
+>> >> 'worker' 0 'start seg:' '975' 'range:' '511180800-511705087' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 975 'resuming, new range:' '511670762-511705087' 'current file size:' 489962
+>> >> 'worker' 1 'start seg:' '979' 'range:' '513277952-513802239' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 979 'resuming, new range:' '513359854-513802239' 'current file size:' 81902
+>> >> 'worker' 2 'start seg:' '984' 'range:' '515899392-516423679' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 984 'resuming, new range:' '515979799-516423679' 'current file size:' 80407
+>> >> 'worker' 3 'start seg:' '985' 'range:' '516423680-516947967' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 985 'resuming, new range:' '516749838-516947967' 'current file size:' 326158
+>> >> 'worker' 4 'start seg:' '986' 'range:' '516947968-517472255' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 986 'resuming, new range:' '517044732-517472255' 'current file size:' 96764
+>> >> 'worker' 5 'start seg:' '987' 'range:' '517472256-517996543' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 987 'resuming, new range:' '517601807-517996543' 'current file size:' 129551
+>> >> 'worker' 6 'start seg:' '988' 'range:' '517996544-518520831' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 988 'resuming, new range:' '518076942-518520831' 'current file size:' 80398
+>> >> 'worker' 7 'start seg:' '989' 'range:' '518520832-519045119' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 989 'resuming, new range:' '518584846-519045119' 'current file size:' 64014
+>> >> 'worker' 8 'start seg:' '990' 'range:' '519045120-519569407' 'size:' 524288 'SL=' 0
+>> >> 'Seg' 990 'resuming, new range:' '519092764-519569407' 'current file size:' 47644
+>> >> 'worker' 9 'start seg:' '991' 'range:' '519569408-520093695' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '975'
+>> >> completed segment:  975
+>> >> completed segment:  976
+>> >> completed segment:  977
+>> >> completed segment:  978
+>> >> 'worker' 0 'start seg:' '992' 'range:' '520093696-520617983' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '990'
+>> >> 'downloaded segment:' '986'
+>> >> 'downloaded segment:' '988'
+>> >> 'worker' 8 'start seg:' '993' 'range:' '520617984-521142271' 'size:' 524288 'SL=' 0
+>> >> 'worker' 4 'start seg:' '994' 'range:' '521142272-521666559' 'size:' 524288 'SL=' 0
+>> >> 'worker' 6 'start seg:' '995' 'range:' '521666560-522190847' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '979'
+>> >> 'downloaded segment:' '991'
+>> >> 'downloaded segment:' '985'
+>> >> completed segment:  979
+>> >> completed segment:  980
+>> >> completed segment:  981
+>> >> completed segment:  982
+>> >> completed segment:  983
+>> >> 'worker' 9 'start seg:' '996' 'range:' '522190848-522715135' 'size:' 524288 'SL=' 0
+>> >> 'worker' 3 'start seg:' '997' 'range:' '522715136-523239423' 'size:' 524288 'SL=' 0
+>> >> 'worker' 1 'start seg:' '998' 'range:' '523239424-523763711' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '987'
+>> >> 'worker' 5 'start seg:' '999' 'range:' '523763712-524287999' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '992'
+>> >> 'worker' 0 'start seg:' '1000' 'range:' '524288000-524812287' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '994'
+>> >> 'downloaded segment:' '995'
+>> >> 'downloaded segment:' '993'
+>> >> 'worker' 6 'start seg:' '1001' 'range:' '524812288-525336575' 'size:' 524288 'SL=' 0
+>> >> 'worker' 8 'start seg:' '1002' 'range:' '525336576-525860863' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '998'
+>> >> 'worker' 4 'start seg:' '1003' 'range:' '525860864-526385151' 'size:' 524288 'SL=' 0
+>> >> 'worker' 1 'start seg:' '1004' 'range:' '526385152-526909439' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '999'
+>> >> 'downloaded segment:' '996'
+>> >> 'worker' 5 'start seg:' '1005' 'range:' '526909440-527433727' 'size:' 524288 'SL=' 0
+>> >> 'worker' 9 'start seg:' '1006' 'range:' '527433728-527958015' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1000'
+>> >> 'worker' 0 'start seg:' '1007' 'range:' '527958016-528482303' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1001'
+>> >> 'downloaded segment:' '1002'
+>> >> 'downloaded segment:' '1003'
+>> >> 'worker' 6 'start seg:' '1008' 'range:' '528482304-529006591' 'size:' 524288 'SL=' 0
+>> >> 'worker' 8 'start seg:' '1009' 'range:' '529006592-529530879' 'size:' 524288 'SL=' 0
+>> >> 'worker' 4 'start seg:' '1010' 'range:' '529530880-530055167' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1004'
+>> >> 'worker' 1 'start seg:' '1011' 'range:' '530055168-530579455' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '997'
+>> >> 'worker' 3 'start seg:' '1012' 'range:' '530579456-531103743' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1005'
+>> >> 'worker' 5 'start seg:' '1013' 'range:' '531103744-531628031' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1006'
+>> >> 'worker' 9 'start seg:' '1014' 'range:' '531628032-532152319' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '989'
+>> >> 'downloaded segment:' '1007'
+>> >> 'worker' 7 'start seg:' '1015' 'range:' '532152320-532676607' 'size:' 524288 'SL=' 0
+>> >> 'worker' 0 'start seg:' '1016' 'range:' '532676608-533200895' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1008'
+>> >> 'worker' 6 'start seg:' '1017' 'range:' '533200896-533725183' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1013'
+>> >> 'downloaded segment:' '1009'
+>> >> 'worker' 5 'start seg:' '1018' 'range:' '533725184-534249471' 'size:' 524288 'SL=' 0
+>> >> 'worker' 8 'start seg:' '1019' 'range:' '534249472-534773759' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1011'
+>> >> 'downloaded segment:' '984'
+>> >> completed segment:  984
+>> >> 'worker' 1 'start seg:' '1020' 'range:' '534773760-535298047' 'size:' 524288 'SL=' 0
+>> >> 'worker' 2 'start seg:' '1021' 'range:' '535298048-535822335' 'size:' 524288 'SL=' 0
+>> >> completed segment:  985
+>> >> completed segment:  986
+>> >> completed segment:  987
+>> >> completed segment:  988
+>> >> completed segment:  989
+>> >> completed segment:  990
+>> >> completed segment:  991
+>> >> completed segment:  992
+>> >> completed segment:  993
+>> >> completed segment:  994
+>> >> completed segment:  995
+>> >> completed segment:  996
+>> >> completed segment:  997
+>> >> completed segment:  998
+>> >> completed segment:  999
+>> >> completed segment:  1000
+>> >> completed segment:  1001
+>> >> completed segment:  1002
+>> >> completed segment:  1003
+>> >> completed segment:  1004
+>> >> completed segment:  1005
+>> >> completed segment:  1006
+>> >> completed segment:  1007
+>> >> completed segment:  1008
+>> >> completed segment:  1009
+>> >> 'downloaded segment:' '1016'
+>> >> 'downloaded segment:' '1014'
+>> >> 'worker' 0 'start seg:' '1022' 'range:' '535822336-536346623' 'size:' 524288 'SL=' 0
+>> >> 'worker' 9 'start seg:' '1023' 'range:' '536346624-536870911' 'size:' 524288 'SL=' 0
+>> >> 'downloaded segment:' '1019'
+>> worker 5 terminated by user
+>> >> 'worker' 5 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1018' 'downloaded' 260613 'target size:' 524288 'remaining:' 263675
+>> worker 1 terminated by user
+>> >> 'worker' 1 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1020' 'downloaded' 309758 'target size:' 524288 'remaining:' 214530
+>> worker 0 terminated by user
+>> >> 'worker' 0 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1022' 'downloaded' 65536 'target size:' 524288 'remaining:' 458752
+>> brain 1: Cancelled download
+>> brain 1: quitting
+>> thread_manager 1: quitting
+>> file_manager 1: quitting
+>> worker 9 terminated by user
+>> >> 'worker' 9 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1023' 'downloaded' 65536 'target size:' 524288 'remaining:' 458752
+>> worker 6 terminated by user
+>> >> 'worker' 6 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1017' 'downloaded' 113149 'target size:' 524288 'remaining:' 411139
+>> worker 4 terminated by user
+>> >> 'worker' 4 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1010' 'downloaded' 276989 'target size:' 524288 'remaining:' 247299
+>> worker 7 terminated by user
+>> >> 'worker' 7 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1015' 'downloaded' 244222 'target size:' 524288 'remaining:' 280066
+>> worker 3 terminated by user
+>> >> 'worker' 3 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1012' 'downloaded' 440831 'target size:' 524288 'remaining:' 83457
+>> worker 2 terminated by user
+>> >> 'worker' 2 'did not complete' 'C:\\Users\\malik\\Downloads\\_temp_avengers.endgame.2019.1080p.10bit.brrip.hindi.english.esubs.moviesmod.com.mkv_parts_\\1021' 'downloaded' 81902 'target size:' 524288 'remaining:' 442386
