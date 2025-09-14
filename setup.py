@@ -46,7 +46,7 @@ directory_table = [
 msi_data = {"Shortcut": directory_table}
 bdist_msi_option = {'data': msi_data}
 executables = [
-    Executable(script="pyIDM.py", base=base, icon="icon.ico")]
+    Executable(script="pyIDM.py", base=base, icon="icons/icon.ico")]
 build_exe_options = {"packages": ["os", "sys",  "PySimpleGUI", "pyperclip", "plyer", "certifi", "youtube_dl", "pycurl"],
                      "include_files": include_files
                      }
